@@ -1,0 +1,12 @@
+[11-Dec-2025 09:38:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'App\Core\Database' not found in /home/davf1826/public_html/logistic.davken.my.id/scripts/create_admin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/scripts/create_admin.php on line 11
+[11-Dec-2025 09:38:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'App\Core\Database' not found in /home/davf1826/public_html/logistic.davken.my.id/scripts/create_admin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/scripts/create_admin.php on line 11
+[11-Dec-2025 09:38:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'App\Core\Database' not found in /home/davf1826/public_html/logistic.davken.my.id/scripts/create_admin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/scripts/create_admin.php on line 11

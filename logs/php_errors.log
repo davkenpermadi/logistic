@@ -1,0 +1,94 @@
+[12-Dec-2025 09:42:41 Asia/Jakarta] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Dec-2025 09:42:41 Asia/Jakarta] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Dec-2025 09:45:04 Asia/Jakarta] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[12-Dec-2025 09:45:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(58): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:45:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:45:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:45:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(58): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:45:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:46:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:47:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(58): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:47:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:47:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:50:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:53:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(58): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:53:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
+[12-Dec-2025 09:53:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Security' not found in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php:21
+Stack trace:
+#0 /home/davf1826/public_html/logistic.davken.my.id/app/Core/Controller.php(34): require_once()
+#1 /home/davf1826/public_html/logistic.davken.my.id/app/Controllers/OrderController.php(50): App\Core\Controller->view('orders/booking', Array)
+#2 /home/davf1826/public_html/logistic.davken.my.id/public/index.php(87): App\Controllers\OrderController->booking()
+#3 {main}
+  thrown in /home/davf1826/public_html/logistic.davken.my.id/app/Views/layout/header.php on line 21
